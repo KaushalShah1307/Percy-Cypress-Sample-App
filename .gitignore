@@ -1,5 +1,8 @@
 # See https://git-scm.com/docs/gitignore for detailed pattern documentation.
 
+# VSCode Files
+.DS_Store
+
 # Dependencies
 /node_modules
 
