@@ -22,8 +22,8 @@ npm](https://nodejs.org/en/download/) and
 Clone the example application and install dependencies:
 
 ```bash
-$ git clone git@github.com:percy/example-percy-cypress.git
-$ cd example-percy-cypress
+$ git clone git@github.com:KaushalShah1307/Percy-Cypress-Sample-App.git  
+$ cd Percy-Cypress-Sample-App
 $ npm install
 ```
 
